@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I am Lucas Eduardo. Welcome to my profile 👋
 
-<!--
-**MaiaLucas/MaiaLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=MaiaLucas.MaiaLucas)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with JavaScript, HTML5 and Jquery.
+- 🌱 I’m currently learning ReactJS with Typescript, Flutter and UX/UI
+- 💬 Ask me about anything get in touch 😄
+- 📫 How to reach me: [@lucasbarretomaia](https://www.linkedin.com/in/lucas-maia-12722a17b/);
+- ⚡ Fun fact:
+  - I love Star Wars.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em>Front-end Developer at <a href="https://makefunnels.com.br">MakeFunnels</a></em>
+<br/>
+<em>My currently personal project: <a href="ecofinder.vercel.app/">Ecofinder 🌱</a> </em>
+<hr/>
+
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaiaLucas&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaLucas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
